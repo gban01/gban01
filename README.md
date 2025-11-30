@@ -12,7 +12,9 @@
 ### Estundado Analise e Desenvolvimento de Sistemas.
 
 
-![Gban GitHub stats](https://github-readme-stats.vercel.app/api?username=gban01&show_icons=true&theme=dracula)
+# 📊 Minhas Estatísticas do GitHub
+
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gban01&show_icons=true&theme=dracula)
 ---
 ### Tecnologias que eu uso no meu dia-a-dia
 
